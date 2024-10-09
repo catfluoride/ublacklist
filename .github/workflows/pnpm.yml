@@ -1,8 +1,0 @@
-- name: Setup pnpm
-  uses: pnpm/action-setup@v4.0.0
-  with:
-    version: null
-    dest: null
-    run_install: null
-    package_json_file: null
-    standalone: null
