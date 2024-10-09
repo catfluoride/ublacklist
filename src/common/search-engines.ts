@@ -530,6 +530,7 @@ export const SEARCH_ENGINES: Readonly<
           "*://twinkpad.pl/search*",
           "*://www.gruble.de/search*",
           "*://www.jabber-germany.de/searx/search*",
+          "*://search.ebnar.xyz/search*",
         ],
         runAt: "document_start",
       },
