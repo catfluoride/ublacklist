@@ -31,7 +31,7 @@ jobs:
       - name: Build
         run: |
           pnpm build
-          pnpm build --browser firefox
+          pnpm build --browser chrome
         env:
           DROPBOX_API_KEY: ${{ secrets.DROPBOX_API_KEY }}
           DROPBOX_API_SECRET: ${{ secrets.DROPBOX_API_SECRET }}
