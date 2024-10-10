@@ -72,7 +72,7 @@ To build this extension, [pnpm](https://pnpm.io/)>=9.7.0 or [corepack](https://g
 # If you use corepack
 # corepack enable
 
-git clone https://github.com/iorate/ublacklist.git
+git clone https://github.com/catfluoride/ublacklist.git
 
 cd ublacklist
 
