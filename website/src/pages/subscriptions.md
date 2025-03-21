@@ -42,6 +42,8 @@ The blacklists featured on this page are user-generated content and are not endo
   - "Hides (most) leftwing media outlets"
 - [Rightwing Media blacklist](https://github.com/RubenKelevra/ublacklist_rightwing_media) by [RubenKelevra](https://github.com/RubenKelevra)
   - "Hides (most) rightwing media outlets"
+- [Israeli News Blocklist](https://github.com/punpunie/ilNewsBlocklist) by [bun](https://github.com/punpunie)
+  - "blocklist of english-speaking israeli news websites"
 
 ## Specific sites {#specific-sites}
 
@@ -104,6 +106,8 @@ The blacklists featured on this page are user-generated content and are not endo
   - "SNS やショッピングサイトなどの検索結果ページを除外するための、uBlacklist のブラックリスト"
 - [ublacklist-scam-net-shops](https://github.com/exoego/ublacklist-scam-net-shops) by [@exoego](https://github.com/exoego)
   - "怪しいネットショップを検索結果から除外"
+- [uBlacklist-filter-by-kdroidwin](https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin) by [@Kdroidwin](https://github.com/Kdroidwin)
+  - "詐欺サイトや偽サイトやいかがでしたかサイトなどを検索結果から除外"
 
 ## Other subscription lists {#other-subscription-lists}
 
